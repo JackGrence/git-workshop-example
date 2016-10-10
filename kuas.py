@@ -1,7 +1,7 @@
 #! /usr/bin/python3
-crack this file :3
 
-"""
+
+
 # Here for person A
 
 import requests
@@ -22,7 +22,7 @@ def getlist():
 		News.append( [ t.text, t.attrib[ 'href' ] ] )
 
 	return News
-"""
+
 
 """
 # Here for person B
