@@ -23,7 +23,7 @@ def getlist():
 	return News
 """
 
-"""
+
 # Here for person B
 
 def getcontent( url ):
@@ -36,7 +36,7 @@ def getcontent( url ):
 	for s in string.split( '\n' ):
 		if not s.strip() == "":
 			print( s )
-"""
+
 
 """
 # Here for person A again
