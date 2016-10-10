@@ -4,7 +4,9 @@
 
 # Here for person A
 
+
 import requests,BBBBBBBBBBB
+
 from lxml import etree
 
 def getlist():
@@ -39,7 +41,7 @@ def getcontent( url ):
 			print( s )
 
 
-"""
+
 # Here for person A again
 
 if __name__ == '__main__':
@@ -61,4 +63,4 @@ if __name__ == '__main__':
 			print( 'Link is not in this domain' )
 	else:
 		print( 'Please input a valid number !' )
-"""
+
